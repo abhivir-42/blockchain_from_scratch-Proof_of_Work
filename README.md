@@ -1,4 +1,4 @@
-# Tutorial 1: Blockchain Client
+# Blockchain Client
 
 A simplified blockchain implementation for educational purposes.
 
