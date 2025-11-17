@@ -1,0 +1,11 @@
+# Tutorial 1 - Blockchain Client Dependencies
+
+# For ECDSA signatures (bonus tasks)
+ecdsa>=0.18.0
+
+# Standard library modules used (no installation needed):
+# - hashlib (SHA-256 hashing)
+# - json (JSON parsing)
+# - gzip (reading compressed files)
+# - argparse (CLI interface)
+

@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output files
+new-blockchain.json.gz
+new-mempool.json.gz
+proof.json
+*.log
+
+Tutorial_1_slides.pdf
+tutorial_1_slides.md
+Tutorial_1.pdf 
+tutorial_1_spec.md
+
